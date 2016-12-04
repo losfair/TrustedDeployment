@@ -1,0 +1,6 @@
+node_modules/
+TestPackage/
+*.pub
+*.asc
+*.tar.gz
+*.sha256

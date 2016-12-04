@@ -1,0 +1,34 @@
+{
+  "name": "trusted-deployment",
+  "version": "1.0.0",
+  "description": "Trusted Deployment",
+  "main": "TrustedDeployment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/losfair/TrustedDeployment.git"
+  },
+  "keywords": [
+    "trust",
+    "trusted",
+    "deployment",
+    "deploy",
+    "server",
+    "code"
+  ],
+  "author": "Heyang Zhou",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/losfair/TrustedDeployment/issues"
+  },
+  "homepage": "https://github.com/losfair/TrustedDeployment#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "openpgp": "^2.3.5",
+    "randomstring": "^1.1.5",
+    "request": "^2.79.0"
+  }
+}
